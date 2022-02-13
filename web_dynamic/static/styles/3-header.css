@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/** ALX/Holberton Practice Styles
+ * ------ Header
+ */
+
+header {
+	background-color: #FFFFFF;
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	background-position: 20px 50%;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.available {
+	background-color: #ff545f !important;
+}
+
+DIV#api_status {
+	float: right;
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	margin-right: 30px;
+	margin-top: 15px;
+	background-color: #cccccc;
+}
